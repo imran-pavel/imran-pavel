@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 
 
-![chewing](https://user-images.githubusercontent.com/9401409/153900052-7e12e376-ab4f-48a2-b692-b11ef9753677.gif)
